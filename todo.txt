@@ -1,0 +1,5 @@
+faculties table
+
+	img_url column
+
+edit attendance - check session was created on that date or not.
