@@ -24,5 +24,4 @@ foreach($course as $co)
                 }
 }
 
-
 ?>
